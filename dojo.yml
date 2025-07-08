@@ -1,0 +1,8 @@
+id: idk
+name: idk Dojo
+type: private
+award:
+  belt: blue
+
+modules:
+  - id: hello
