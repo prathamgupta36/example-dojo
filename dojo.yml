@@ -1,7 +1,8 @@
 id: system-security
 name: System Security
 type: public
-award: 🐉
+award: 
+  emoji: 🐉
 
 modules:
   - id: hello
