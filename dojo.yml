@@ -1,8 +1,7 @@
 id: system-security
 name: System Security
 type: private
-award: 
-  emoji: 🐉
+image: pwncollege/challenge-simple:latest
 
 modules:
   - id: hello
