@@ -1,7 +1,7 @@
 id: system-security
 name: System Security
 type: private
-image: pwncollege/challenge-simple:latest
+image: prathamgupta36/challenge-simple:0.1
 
 modules:
   - id: hello
