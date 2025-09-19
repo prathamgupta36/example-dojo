@@ -1,7 +1,7 @@
 id: example-mine
 name: Example
 type: private
-image: prathamgupta36/challenge-simple:0.1
+# image: prathamgupta36/challenge-simple:0.1
 
 modules:
   - id: hello
