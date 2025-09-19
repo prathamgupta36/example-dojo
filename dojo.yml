@@ -1,5 +1,5 @@
-id: system-security
-name: System Security
+id: example-mine
+name: Example
 type: private
 image: prathamgupta36/challenge-simple:0.1
 
