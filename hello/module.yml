@@ -1,9 +1,9 @@
 name: Hello
 challenges:
-  - id: apple
-    name: Apple
-  - id: apple
-    name: banannananana
+  # - id: apple
+  #   name: Apple
+  # - id: apple
+  #   name: banannananana
   - id: docker
     name: docker
     image: prathamgupta36/did-pwncollege
