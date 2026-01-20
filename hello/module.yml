@@ -6,4 +6,4 @@ challenges:
   #   name: banannananana
   - id: docker
     name: docker
-    image: prathamgupta36/did-pwncollege:0.1
+    image: prathamgupta36/nix-doesnt-work
